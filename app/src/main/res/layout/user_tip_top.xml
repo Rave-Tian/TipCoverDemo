@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    >
+
+        <ImageView
+            android:id="@+id/title_tip"
+            android:layout_width="278.5dp"
+            android:layout_height="97dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/fragment_title_tip" />
+
+</RelativeLayout>
